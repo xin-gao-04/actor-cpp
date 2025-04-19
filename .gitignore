@@ -30,6 +30,8 @@ CTestTestfile.cmake
 *.swo
 *~
 .DS_Store
+.vscode/
+.cursor/
 
 # 依赖包
 vcpkg_installed/
